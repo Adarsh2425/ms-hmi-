@@ -1,4 +1,3 @@
-Got it, Adarsh — let’s focus on **just the theoretical and functional goal plan** of your CNC HMI system, **without diving into code or implementation yet**. Below is a **complete conceptual blueprint** of the project to guide future development and ensure clarity of purpose, responsibilities, and system flow.
 
 ---
 
