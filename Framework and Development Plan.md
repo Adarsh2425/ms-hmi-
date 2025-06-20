@@ -187,8 +187,3 @@ hmi/
 *Maintained by Adarsh Gajula | June 2025*
 
 ```
-
----
-
-Let me know if you'd like a separate `system-architecture.md` or `protocol.md` document next, or if you'd like this split into smaller sections like `docs/` folder on GitHub.
-```
